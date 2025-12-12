@@ -131,11 +131,11 @@ Epiverso es una iniciativa colaborativa global liderada por data.org, que preten
 
 ### [LLMs](https://www.youtube.com/playlist?list=PL9-E3cL2KgKmp38SPnJhU79elklcUTH0S)
 
-* Herramientas para usar modelos de lenguaje de gran escala (LLM) en R	Luis D. Verde Arregoitia
+* [Herramientas para usar modelos de lenguaje de gran escala (LLM) en R	Luis D. Verde Arregoitia](https://github.com/LatinR/presentaciones-latinr2025/blob/main/contribuciones/33.pdf)
 
-* Bringing Stable Diffusion to R: An R-First Implementation of Text-to-Image Generation	Troy Hernandez
+* [Bringing Stable Diffusion to R: An R-First Implementation of Text-to-Image Generation	Troy Hernandez](https://github.com/LatinR/presentaciones-latinr2025/blob/main/contribuciones/54-2.pdf)
 
-* MyOwnRobs: A Cursor-style AI Coding Agent for RStudio	Juan Cruz Rodriguez
+* [MyOwnRobs: A Cursor-style AI Coding Agent for RStudio	Juan Cruz Rodriguez](https://github.com/LatinR/presentaciones-latinr2025/blob/main/contribuciones/40.pdf)
 
 
 ## Tutoriales
